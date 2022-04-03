@@ -37,3 +37,27 @@ I am currently studying JS / FRONT-END at RS school
 
 * English (B2)
 * Russian (Native speaker)
+
+---
+
+**Code example:**
+
+```javascript
+function numberOfPairs(gloves) {
+    sortColors = [];
+    for (key in gloves) {
+        let glove = gloves[key]; //?
+        sortColors[glove] ? ++sortColors[glove] : (sortColors[glove] = 1); //?
+    }
+    let count = 0;
+    for (key in sortColors) {
+        count = count + Math.floor(sortColors[key] / 2);
+    }
+    return count;
+}
+
+input = ['red', 'red', 'red', 'red', 'red', 'red'];
+
+numberOfPairs(input);
+```
+
