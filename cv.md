@@ -10,13 +10,13 @@
 
 **E-mail:** ilin@infostorm.ru
 
-**Discord:** Anliv#0381
+**Discord:** infostorm#7803
 
-------
+---
 
 **About myself:**
 
-I am an IT specialist, I am engaged in the development and support of websites, I like sports. 
+I am an IT specialist, I am engaged in the development and support of websites, I like sports.
 
 I am currently studying JS / FRONT-END at RS school
 
@@ -24,19 +24,19 @@ I am currently studying JS / FRONT-END at RS school
 
 **Skills and Proficiency:**
 
-* HTML5
-* CSS3
-* JavaScript Basics
-* Git Basics
-* VS Code
-* Adobe Photoshop, Figma
+-   HTML5
+-   CSS3
+-   JavaScript Basics
+-   Git Basics
+-   VS Code
+-   Adobe Photoshop, Figma
 
 ---
 
 **Languages:**
 
-* English (B2)
-* Russian (Native speaker)
+-   English (B2)
+-   Russian (Native speaker)
 
 ---
 
@@ -60,4 +60,3 @@ input = ['red', 'red', 'red', 'red', 'red', 'red'];
 
 numberOfPairs(input);
 ```
-
